@@ -1,127 +1,39 @@
 @font-face {
-              font-family: Sofia Pro;
-              font-weight: 202;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-UltraLightitalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-UltraLightitalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 202;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-UltraLight.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-UltraLight.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 603;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-SemiBolditalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-SemiBolditalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 603;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-SemiBold.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-SemiBold.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 400;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Regularitalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Regularitalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 400;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Regular.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Regular.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 500;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Mediumitalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Mediumitalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 500;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Medium.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Medium.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 300;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Lightitalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Lightitalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 300;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Light.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Light.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 201;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-ExtraLightitalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-ExtraLightitalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 201;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-ExtraLight.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-ExtraLight.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 700;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Bolditalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Bolditalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 700;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Bold.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Bold.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 900;
-              font-style: italic;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Blackitalic.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Blackitalic.woff') format('woff');
-          }
-        
-          @font-face {
-              font-family: Sofia Pro;
-              font-weight: 900;
-              font-style: normal;
-              font-display: block;
-              src: url('/fonts/sofiapro/SofiaPro-Black.woff2') format('woff2'), url('/fonts/sofiapro/SofiaPro-Black.woff') format('woff');
-          }
+    font-family: Sofia Pro;
+    font-weight: 603;
+    font-style: normal;
+    font-display: block;
+    src: url('/cdn/fonts/sofiapro/SofiaPro-SemiBold.woff2') format('woff2'), url('/cdn/fonts/sofiapro/SofiaPro-SemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+    src: url('/cdn/fonts/sofiapro/SofiaPro-Regular.woff2') format('woff2'), url('/cdn/fonts/sofiapro/SofiaPro-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+    src: url('/cdn/fonts/sofiapro/SofiaPro-Medium.woff2') format('woff2'), url('/cdn/fonts/sofiapro/SofiaPro-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+    src: url('/cdn/fonts/sofiapro/SofiaPro-Light.woff2') format('woff2'), url('/cdn/fonts/sofiapro/SofiaPro-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+    src: url('/cdn/fonts/sofiapro/SofiaPro-Bold.woff2') format('woff2'), url('/cdn/fonts/sofiapro/SofiaPro-Bold.woff') format('woff');
+}
