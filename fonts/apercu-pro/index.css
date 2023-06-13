@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Apercu Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Apercu Pro'), url('/cdn/fonts/sofiapro/apercu-pro/apercu_regular_pro.woff') format('woff');
+}
+@font-face {
+    font-family: 'Apercu Pro';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Apercu Pro'), url('/cdn/fonts/sofiapro/apercu-pro/apercu_regular_italic_pro.woff') format('woff');
+}
+@font-face {
+    font-family: 'Apercu Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Apercu Pro'), url('/cdn/fonts/sofiapro/apercu-pro/apercu_medium_pro.woff') format('woff');
+}
+@font-face {
+    font-family: 'Apercu Pro';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Apercu Pro'), url('/cdn/fonts/sofiapro/apercu-pro/apercu_medium_italic_pro.woff') format('woff');
+}
+@font-face {
+    font-family: 'Apercu Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Apercu Pro'), url('/cdn/fonts/sofiapro/apercu-pro/apercu_bold_pro.woff') format('woff');
+}
+@font-face {
+    font-family: 'Apercu Pro';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Apercu Pro'), url('/cdn/fonts/sofiapro/apercu-pro/apercu_bold_italic_pro.woff') format('woff');
+}
