@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/cdn/fonts/apercupro/ApercuPro-Bold.eot');
+    src: url('/cdn/fonts/apercupro/ApercuPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/cdn/fonts/apercupro/ApercuPro-Bold.woff2') format('woff2'),
+        url('/cdn/fonts/apercupro/ApercuPro-Bold.woff') format('woff'),
+        url('/cdn/fonts/apercupro/ApercuPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/cdn/fonts/apercupro/ApercuPro-Italic.eot');
+    src: url('/cdn/fonts/apercupro/ApercuPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/cdn/fonts/apercupro/ApercuPro-Italic.woff2') format('woff2'),
+        url('/cdn/fonts/apercupro/ApercuPro-Italic.woff') format('woff'),
+        url('/cdn/fonts/apercupro/ApercuPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/cdn/fonts/apercupro/ApercuPro-MediumItalic.eot');
+    src: url('/cdn/fonts/apercupro/ApercuPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/cdn/fonts/apercupro/ApercuPro-MediumItalic.woff2') format('woff2'),
+        url('/cdn/fonts/apercupro/ApercuPro-MediumItalic.woff') format('woff'),
+        url('/cdn/fonts/apercupro/ApercuPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/cdn/fonts/apercupro/ApercuPro.eot');
+    src: url('/cdn/fonts/apercupro/ApercuPro.eot?#iefix') format('embedded-opentype'),
+        url('/cdn/fonts/apercupro/ApercuPro.woff2') format('woff2'),
+        url('/cdn/fonts/apercupro/ApercuPro.woff') format('woff'),
+        url('/cdn/fonts/apercupro/ApercuPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/cdn/fonts/apercupro/ApercuPro-Medium.eot');
+    src: url('/cdn/fonts/apercupro/ApercuPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/cdn/fonts/apercupro/ApercuPro-Medium.woff2') format('woff2'),
+        url('/cdn/fonts/apercupro/ApercuPro-Medium.woff') format('woff'),
+        url('/cdn/fonts/apercupro/ApercuPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/cdn/fonts/apercupro/ApercuPro-BoldItalic.eot');
+    src: url('/cdn/fonts/apercupro/ApercuPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/cdn/fonts/apercupro/ApercuPro-BoldItalic.woff2') format('woff2'),
+        url('/cdn/fonts/apercupro/ApercuPro-BoldItalic.woff') format('woff'),
+        url('/cdn/fonts/apercupro/ApercuPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
